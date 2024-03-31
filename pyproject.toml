@@ -1,0 +1,11 @@
+[project]
+name = "pyt2s"
+version = "0.0.0"
+authors = [{ name="Sumanth Perambuduri", email="sumanthpera444@gmail.com" }]
+description = "Python library you need for text to speech."
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
