@@ -9,3 +9,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+[project.urls]
+Homepage = "https://github.com/supersu-man/pyt2s"
+Issues = "https://github.com/supersu-man/pyt2s/issues   "
