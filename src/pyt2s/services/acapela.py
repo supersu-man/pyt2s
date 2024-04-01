@@ -1,5 +1,5 @@
 import json
-from ..service import Service
+from pyt2s.service import Service
 import requests
 
 class Acapela(Service):

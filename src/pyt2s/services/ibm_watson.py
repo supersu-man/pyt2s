@@ -1,6 +1,6 @@
 import requests
 import uuid
-from ..service import Service
+from pyt2s.service import Service
 
 class IBM_Watson(Service):
     

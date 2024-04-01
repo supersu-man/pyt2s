@@ -1,5 +1,5 @@
 import requests
-from ..service import Service
+from pyt2s.service import Service
 
 class Oddcast(Service):
 

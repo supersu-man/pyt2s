@@ -1,6 +1,6 @@
 import requests
 import time
-from ..service import Service
+from pyt2s.service import Service
 
 class Cepstral(Service):
 
