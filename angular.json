@@ -99,6 +99,9 @@
           "options": {
             "buildTarget": "pyt2s:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
