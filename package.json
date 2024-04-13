@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --output-path docs --base-href /angular-app/",
+    "build": "ng build --output-path docs --base-href /pyt2s/",
     "watch": "ng build --watch --configuration development"
   },
   "private": true,
