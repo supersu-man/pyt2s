@@ -1,0 +1,1437 @@
+[
+    {
+        "title": "Brian (English, British)",
+        "value": "Brian",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Amy (English, British)",
+        "value": "Amy",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Emma (English, British)",
+        "value": "Emma",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Geraint (English, Welsh)",
+        "value": "Geraint",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Russell (English, Australian)",
+        "value": "Russell",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Nicole (English, Australian)",
+        "value": "Nicole",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Joey (English, American)",
+        "value": "Joey",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Justin (English, American)",
+        "value": "Justin",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Matthew (English, American)",
+        "value": "Matthew",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ivy (English, American)",
+        "value": "Ivy",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Joanna (English, American)",
+        "value": "Joanna",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Kendra (English, American)",
+        "value": "Kendra",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Kimberly (English, American)",
+        "value": "Kimberly",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Salli (English, American)",
+        "value": "Salli",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Raveena (English, Indian)",
+        "value": "Raveena",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Zhiyu (Chinese, Mandarin)",
+        "value": "Zhiyu",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mads (Danish)",
+        "value": "Mads",
+        "lang": "Danish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Naja (Danish)",
+        "value": "Naja",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ruben (Dutch)",
+        "value": "Ruben",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Lotte (Polly) (Dutch)",
+        "value": "Lotte",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mathieu (French)",
+        "value": "Mathieu",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "C\u00e9line (French)",
+        "value": "Celine",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Chantal (French, Canadian)",
+        "value": "Chantal",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Hans (German)",
+        "value": "Hans",
+        "lang": "German",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Marlene (German)",
+        "value": "Marlene",
+        "lang": "German",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Vicki (German)",
+        "value": "Vicki",
+        "lang": "German",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Aditi (+English) (Hindi)",
+        "value": "Aditi",
+        "lang": "Hindi",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Karl (Icelandic)",
+        "value": "Karl",
+        "lang": "Icelandic",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "D\u00f3ra (Icelandic)",
+        "value": "Dora",
+        "lang": "Icelandic",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Carla (Italian)",
+        "value": "Carla",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Bianca (Italian)",
+        "value": "Bianca",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Giorgio (Italian)",
+        "value": "Giorgio",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Takumi (Japanese)",
+        "value": "Takumi",
+        "lang": "Japanese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mizuki (Japanese)",
+        "value": "Mizuki",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Seoyeon (Korean)",
+        "value": "Seoyeon",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Liv (Norwegian)",
+        "value": "Liv",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ewa (Polish)",
+        "value": "Ewa",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Maja (Polish)",
+        "value": "Maja",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jacek (Polish)",
+        "value": "Jacek",
+        "lang": "Polish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jan (Polish)",
+        "value": "Jan",
+        "lang": "Polish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ricardo (Portuguese, Brazilian)",
+        "value": "Ricardo",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Vit\u00f3ria (Portuguese, Brazilian)",
+        "value": "Vitoria",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Cristiano (Portuguese, European)",
+        "value": "Cristiano",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "In\u00eas (Portuguese, European)",
+        "value": "Ines",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Carmen (Romanian)",
+        "value": "Carmen",
+        "lang": "Romanian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Maxim (Russian)",
+        "value": "Maxim",
+        "lang": "Russian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Tatyana (Russian)",
+        "value": "Tatyana",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Enrique (Spanish, European)",
+        "value": "Enrique",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Conchita (Spanish, European)",
+        "value": "Conchita",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mia (Spanish, Mexican)",
+        "value": "Mia",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Miguel (Spanish, American)",
+        "value": "Miguel",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Pen\u00e9lope (Spanish, American)",
+        "value": "Penelope",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Astrid (Swedish)",
+        "value": "Astrid",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Filiz (Turkish)",
+        "value": "Filiz",
+        "lang": "Turkish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Gwyneth (Welsh)",
+        "value": "Gwyneth",
+        "lang": "Welsh",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Carter (English, American)",
+        "value": "en-US-Wavenet-A",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Paul (English, American)",
+        "value": "en-US-Wavenet-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Evelyn (English, American)",
+        "value": "en-US-Wavenet-C",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Liam (English, American)",
+        "value": "en-US-Wavenet-D",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jasmine (English, American)",
+        "value": "en-US-Wavenet-E",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Madison (English, American)",
+        "value": "en-US-Wavenet-F",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mark (English, American)",
+        "value": "en-US-Standard-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Vanessa (English, American)",
+        "value": "en-US-Standard-C",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Zachary (English, American)",
+        "value": "en-US-Standard-D",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Audrey (English, American)",
+        "value": "en-US-Standard-E",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Layla (English, British)",
+        "value": "en-GB-Standard-A",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ali (English, British)",
+        "value": "en-GB-Standard-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Scarlett (English, British)",
+        "value": "en-GB-Standard-C",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Oliver (English, British)",
+        "value": "en-GB-Standard-D",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Bella (English, British)",
+        "value": "en-GB-Wavenet-A",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "John (English, British)",
+        "value": "en-GB-Wavenet-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Victoria (English, British)",
+        "value": "en-GB-Wavenet-C",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ron (English, British)",
+        "value": "en-GB-Wavenet-D",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Zoe (English, Australian)",
+        "value": "en-AU-Standard-A",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Luke (English, Australian)",
+        "value": "en-AU-Standard-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Samantha (English, Australian)",
+        "value": "en-AU-Wavenet-A",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Steve (English, Australian)",
+        "value": "en-AU-Wavenet-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Courtney (English, Australian)",
+        "value": "en-AU-Wavenet-C",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jayden (English, Australian)",
+        "value": "en-AU-Wavenet-D",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ashleigh (English, Australian)",
+        "value": "en-AU-Standard-C",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Daniel (English, Australian)",
+        "value": "en-AU-Standard-D",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Anushri (English, Indian)",
+        "value": "en-IN-Wavenet-A",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Sundar (English, Indian)",
+        "value": "en-IN-Wavenet-B",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Satya (English, Indian)",
+        "value": "en-IN-Wavenet-C",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Sonya (Afrikaans)",
+        "value": "af-ZA-Standard-A",
+        "lang": "Afrikaans",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Aisha (Arabic)",
+        "value": "ar-XA-Wavenet-A",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ahmad 1 (Arabic)",
+        "value": "ar-XA-Wavenet-B",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ahmad 2 (Arabic)",
+        "value": "ar-XA-Wavenet-C",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Nikolina (Bulgarian)",
+        "value": "bg-bg-Standard-A",
+        "lang": "Bulgarian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Li Na (Chinese, Mandarin)",
+        "value": "cmn-CN-Wavenet-A",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Wang (Chinese, Mandarin)",
+        "value": "cmn-CN-Wavenet-B",
+        "lang": "Chinese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Bai (Chinese, Mandarin)",
+        "value": "cmn-CN-Wavenet-C",
+        "lang": "Chinese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mingli (Chinese, Mandarin)",
+        "value": "cmn-CN-Wavenet-D",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Silvia (Czech)",
+        "value": "cs-CZ-Wavenet-A",
+        "lang": "Czech",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Marie (Danish)",
+        "value": "da-DK-Wavenet-A",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Annemieke (Dutch)",
+        "value": "nl-NL-Standard-A",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Eva (Dutch)",
+        "value": "nl-NL-Wavenet-A",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Lars (Dutch)",
+        "value": "nl-NL-Wavenet-B",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Marc (Dutch)",
+        "value": "nl-NL-Wavenet-C",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Verona (Dutch)",
+        "value": "nl-NL-Wavenet-D",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Lotte (Wavenet) (Dutch)",
+        "value": "nl-NL-Wavenet-E",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Tala (Filipino (Tagalog))",
+        "value": "fil-PH-Wavenet-A",
+        "lang": "Filipino (Tagalog)",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Marianne (Finnish)",
+        "value": "fi-FI-Wavenet-A",
+        "lang": "Finnish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Yvonne (French)",
+        "value": "fr-FR-Standard-C",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Gaspard (French)",
+        "value": "fr-FR-Standard-D",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Emilie (French)",
+        "value": "fr-FR-Wavenet-A",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Marcel (French)",
+        "value": "fr-FR-Wavenet-B",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Brigitte (French)",
+        "value": "fr-FR-Wavenet-C",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Simon (French)",
+        "value": "fr-FR-Wavenet-D",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Juliette (French, Canadian)",
+        "value": "fr-CA-Standard-A",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Felix (French, Canadian)",
+        "value": "fr-CA-Standard-B",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Camille (French, Canadian)",
+        "value": "fr-CA-Standard-C",
+        "lang": "French",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jacques (French, Canadian)",
+        "value": "fr-CA-Standard-D",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Karolina (German)",
+        "value": "de-DE-Standard-A",
+        "lang": "German",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Albert (German)",
+        "value": "de-DE-Standard-B",
+        "lang": "German",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Angelika (German)",
+        "value": "de-DE-Wavenet-A",
+        "lang": "German",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Oskar (German)",
+        "value": "de-DE-Wavenet-B",
+        "lang": "German",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Nina (German)",
+        "value": "de-DE-Wavenet-C",
+        "lang": "German",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Sebastian (German)",
+        "value": "de-DE-Wavenet-D",
+        "lang": "German",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Thalia (Greek)",
+        "value": "el-GR-Wavenet-A",
+        "lang": "Greek",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Sneha (Hindi)",
+        "value": "hi-IN-Wavenet-A",
+        "lang": "Hindi",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Arnav (Hindi)",
+        "value": "hi-IN-Wavenet-B",
+        "lang": "Hindi",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Aadhav (Hindi)",
+        "value": "hi-IN-Wavenet-C",
+        "lang": "Hindi",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ishtevan (Hungarian)",
+        "value": "hu-HU-Wavenet-A",
+        "lang": "Hungarian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Helga (Icelandic)",
+        "value": "is-is-Standard-A",
+        "lang": "Icelandic",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Anisa (Indonesian)",
+        "value": "id-ID-Wavenet-A",
+        "lang": "Indonesian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Budi (Indonesian)",
+        "value": "id-ID-Wavenet-B",
+        "lang": "Indonesian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Bayu (Indonesian)",
+        "value": "id-ID-Wavenet-C",
+        "lang": "Indonesian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Gianna (Italian)",
+        "value": "it-IT-Standard-A",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Valentina (Italian)",
+        "value": "it-IT-Wavenet-A",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Stella (Italian)",
+        "value": "it-IT-Wavenet-B",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Alessandro (Italian)",
+        "value": "it-IT-Wavenet-C",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Luca (Italian)",
+        "value": "it-IT-Wavenet-D",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Koharu (Japanese)",
+        "value": "ja-JP-Standard-A",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Miho (Japanese)",
+        "value": "ja-JP-Wavenet-A",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Eiko (Japanese)",
+        "value": "ja-JP-Wavenet-B",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Haruto (Japanese)",
+        "value": "ja-JP-Wavenet-C",
+        "lang": "Japanese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Eichi (Japanese)",
+        "value": "ja-JP-Wavenet-D",
+        "lang": "Japanese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Heosu (Korean)",
+        "value": "ko-KR-Standard-A",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Grace (Korean)",
+        "value": "ko-KR-Wavenet-A",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Juris (Latvian)",
+        "value": "lv-lv-Standard-A",
+        "lang": "Latvian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Nora (Norwegian, Bokm\u00e5l)",
+        "value": "nb-no-Wavenet-E",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Malena (Norwegian, Bokm\u00e5l)",
+        "value": "nb-no-Wavenet-A",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jacob (Norwegian, Bokm\u00e5l)",
+        "value": "nb-no-Wavenet-B",
+        "lang": "Norwegian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Thea (Norwegian, Bokm\u00e5l)",
+        "value": "nb-no-Wavenet-C",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Aksel (Norwegian, Bokm\u00e5l)",
+        "value": "nb-no-Wavenet-D",
+        "lang": "Norwegian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Amelia (Polish)",
+        "value": "pl-PL-Wavenet-A",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Stanislaw (Polish)",
+        "value": "pl-PL-Wavenet-B",
+        "lang": "Polish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Tomasz (Polish)",
+        "value": "pl-PL-Wavenet-C",
+        "lang": "Polish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Klaudia (Polish)",
+        "value": "pl-PL-Wavenet-D",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Beatriz (Portuguese, Portugal)",
+        "value": "pt-PT-Wavenet-A",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Francisco (Portuguese, Portugal)",
+        "value": "pt-PT-Wavenet-B",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Lucas (Portuguese, Portugal)",
+        "value": "pt-PT-Wavenet-C",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Carolina (Portuguese, Portugal)",
+        "value": "pt-PT-Wavenet-D",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Alice (Portuguese, Brazilian)",
+        "value": "pt-BR-Standard-A",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "\u041c\u0430\u0448\u0430 (Masha) (Russian)",
+        "value": "ru-RU-Wavenet-A",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "\u0418\u043b\u044c\u044f (Ilya) (Russian)",
+        "value": "ru-RU-Wavenet-B",
+        "lang": "Russian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "\u0410\u043b\u0451\u043d\u0430 (Alena) (Russian)",
+        "value": "ru-RU-Wavenet-C",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "\u041f\u0451\u0442\u0440 (Petr) (Russian)",
+        "value": "ru-RU-Wavenet-D",
+        "lang": "Russian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Aleksandra (Serbian)",
+        "value": "sr-rs-Standard-A",
+        "lang": "Serbian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Eliska (Slovak)",
+        "value": "sk-SK-Wavenet-A",
+        "lang": "Slovak",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Rosalinda (Spanish, Castilian)",
+        "value": "es-ES-Standard-A",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Elsa (Swedish)",
+        "value": "sv-SE-Standard-A",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Zehra (Turkish)",
+        "value": "tr-TR-Standard-A",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Yagmur (Turkish)",
+        "value": "tr-TR-Wavenet-A",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Mehmet (Turkish)",
+        "value": "tr-TR-Wavenet-B",
+        "lang": "Turkish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Miray (Turkish)",
+        "value": "tr-TR-Wavenet-C",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Elif (Turkish)",
+        "value": "tr-TR-Wavenet-D",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Enes (Turkish)",
+        "value": "tr-TR-Wavenet-E",
+        "lang": "Turkish",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Vladislava (Ukrainian)",
+        "value": "uk-UA-Wavenet-A",
+        "lang": "Ukrainian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Linh (Vietnamese)",
+        "value": "vi-VN-Wavenet-A",
+        "lang": "Vietnamese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Nguyen (Vietnamese)",
+        "value": "vi-VN-Wavenet-B",
+        "lang": "Vietnamese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Phuong (Vietnamese)",
+        "value": "vi-VN-Wavenet-C",
+        "lang": "Vietnamese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Viet (Vietnamese)",
+        "value": "vi-VN-Wavenet-D",
+        "lang": "Vietnamese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Linda (English, Canadian)",
+        "value": "Linda",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Heather (English, Canadian)",
+        "value": "Heather",
+        "lang": "English",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Sean (English, Irish)",
+        "value": "Sean",
+        "lang": "English",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Hoda (Arabic, Egypt)",
+        "value": "Hoda",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Naayf (Arabic, Saudi Arabia)",
+        "value": "Naayf",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Ivan (Bulgarian)",
+        "value": "Ivan",
+        "lang": "Bulgarian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Herena (Catalan)",
+        "value": "Herena",
+        "lang": "Catalan",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Tracy (Chinese, Cantonese, Traditional)",
+        "value": "Tracy",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Danny (Chinese, Cantonese, Traditional)",
+        "value": "Danny",
+        "lang": "Chinese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Huihui (Chinese, Mandarin, Simplified)",
+        "value": "Huihui",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Yaoyao (Chinese, Mandarin, Simplified)",
+        "value": "Yaoyao",
+        "lang": "Chinese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Kangkang (Chinese, Mandarin, Simplified)",
+        "value": "Kangkang",
+        "lang": "Chinese",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "HanHan (Chinese, Taiwanese, Traditional)",
+        "value": "HanHan",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Zhiwei (Chinese, Taiwanese, Traditional)",
+        "value": "Zhiwei",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Matej (Croatian)",
+        "value": "Matej",
+        "lang": "Croatian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Jakub (Czech)",
+        "value": "Jakub",
+        "lang": "Czech",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Guillaume (French, Switzerland)",
+        "value": "Guillaume",
+        "lang": "French",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Michael (German, Austria)",
+        "value": "Michael",
+        "lang": "German",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Karsten (German, Switzerland)",
+        "value": "Karsten",
+        "lang": "German",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Stefanos (Greek)",
+        "value": "Stefanos",
+        "lang": "Greek",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Szabolcs (Hungarian)",
+        "value": "Szabolcs",
+        "lang": "Hungarian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Andika (Indonesian)",
+        "value": "Andika",
+        "lang": "Indonesian",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Heidi (Finnish)",
+        "value": "Heidi",
+        "lang": "Finnish",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Kalpana (Hindi)",
+        "value": "Kalpana",
+        "lang": "Hindi",
+        "gender": "F",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Hemant (Hindi)",
+        "value": "Hemant",
+        "lang": "Hindi",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Rizwan (Malay)",
+        "value": "Rizwan",
+        "lang": "Malay",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Filip (Slovak)",
+        "value": "Filip",
+        "lang": "Slovak",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Lado (Slovenian)",
+        "value": "Lado",
+        "lang": "Slovenian",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Valluvar (Tamil, India)",
+        "value": "Valluvar",
+        "lang": "Tamil",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "Pattara (Thai)",
+        "value": "Pattara",
+        "lang": "Thai",
+        "gender": "M",
+        "service": "StreamElements"
+    },
+    {
+        "title": "An (Vietnamese)",
+        "value": "An",
+        "lang": "Vietnamese",
+        "gender": "M",
+        "service": "StreamElements"
+    }
+]

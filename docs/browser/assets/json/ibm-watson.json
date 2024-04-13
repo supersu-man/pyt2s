@@ -1,0 +1,219 @@
+[
+    {
+        "title": "Charlotte (English, British)",
+        "value": "en-GB_CharlotteV3Voice",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "James (English, British)",
+        "value": "en-GB_JamesV3Voice",
+        "lang": "English",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Kate (English, British)",
+        "value": "en-GB_KateV3Voice",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Jack (Expressive) (English, Australian)",
+        "value": "en-AU_JackExpressive",
+        "lang": "English",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Heidi (Expressive) (English, Australian)",
+        "value": "en-AU_HeidiExpressive",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Allison (English, American)",
+        "value": "en-US_AllisonV3Voice",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Allison (Expressive) (English, American)",
+        "value": "en-US_AllisonExpressive",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Emily (English, American)",
+        "value": "en-US_EmilyV3Voice",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Emma (Expressive) (English, American)",
+        "value": "en-US_EmmaExpressive",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Henry (English, American)",
+        "value": "en-US_HenryV3Voice",
+        "lang": "English",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Kevin (English, American)",
+        "value": "en-US_KevinV3Voice",
+        "lang": "English",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Lisa (English, American)",
+        "value": "en-US_LisaV3Voice",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Lisa (Expressive) (English, American)",
+        "value": "en-US_LisaExpressive",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Michael (English, American)",
+        "value": "en-US_MichaelV3Voice",
+        "lang": "English",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Michael (Expressive) (English, American)",
+        "value": "en-US_MichaelExpressive",
+        "lang": "English",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Olivia (English, American)",
+        "value": "en-US_OliviaV3Voice",
+        "lang": "English",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Merel (Dutch)",
+        "value": "nl-NL_MerelV3Voice",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Nicolas (French)",
+        "value": "fr-FR_NicolasV3Voice",
+        "lang": "French",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Renee (French)",
+        "value": "fr-FR_ReneeV3Voice",
+        "lang": "French",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Louise (French, Canadian)",
+        "value": "fr-CA_LouiseV3Voice",
+        "lang": "French",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Birgit (German)",
+        "value": "de-DE_BirgitV3Voice",
+        "lang": "German",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Dieter (German)",
+        "value": "de-DE_DieterV3Voice",
+        "lang": "German",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Erika (German)",
+        "value": "de-DE_ErikaV3Voice",
+        "lang": "German",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Francesca (Italian)",
+        "value": "it-IT_FrancescaV3Voice",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Emi (Japanese)",
+        "value": "ja-JP_EmiV3Voice",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Jin (Korean)",
+        "value": "ko-KR_JinV3Voice",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Isabela (Portuguese, Brazilian)",
+        "value": "pt-BR_IsabelaV3Voice",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Enrique (Spanish, Castilian)",
+        "value": "es-ES_EnriqueV3Voice",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Laura (Spanish, Castilian)",
+        "value": "es-ES_LauraV3Voice",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Sofia (Spanish, Latin American)",
+        "value": "es-LA_SofiaV3Voice",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "IBM Watson"
+    },
+    {
+        "title": "Sofia (Spanish, American)",
+        "value": "es-US_SofiaV3Voice",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "IBM Watson"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "title": "Conrad (English, American)",
+        "value": "Conrad",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Designer Dave (English, American)",
+        "value": "Designer",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Diesel (English, American)",
+        "value": "Diesel",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Dog (English)",
+        "value": "Dog",
+        "lang": "English",
+        "gender": "O",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Evil Genius (English, American)",
+        "value": "Evilgenius",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Frank (English, American)",
+        "value": "Frank",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "French-fry (English, French)",
+        "value": "French-fry",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Gregory (English, American)",
+        "value": "Gregory",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Jerkface (English, American)",
+        "value": "Jerkface",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Jersey Girl (English, American)",
+        "value": "JerseyGirl",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Kayla (English, American)",
+        "value": "Kayla",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Kevin (English, American)",
+        "value": "Kevin",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Kidaroo (English, American)",
+        "value": "Kidaroo",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Princess (English, American)",
+        "value": "Princess",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Ransom Note (English, American)",
+        "value": "RansomNote",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Robot (English, American)",
+        "value": "Robot",
+        "lang": "English",
+        "gender": "O",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Shy Girl (English, American)",
+        "value": "Shygirl",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Susan (English, American)",
+        "value": "Susan",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Tamika (English, American)",
+        "value": "Tamika",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Top Hat (English, American)",
+        "value": "TopHat",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Vixen (English, American)",
+        "value": "Vixen",
+        "lang": "English",
+        "gender": "F",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Vlad (English, Russian)",
+        "value": "Vlad",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Warren Peas (English, American)",
+        "value": "Warren",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Wiseguy (English, American)",
+        "value": "Wiseguy",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Zach (English, American)",
+        "value": "Zach",
+        "lang": "English",
+        "gender": "M",
+        "service": "VoiceForge"
+    },
+    {
+        "title": "Obama (English, American)",
+        "value": "Obama",
+        "lang": "English",
+        "gender": "O",
+        "service": "VoiceForge"
+    }
+]

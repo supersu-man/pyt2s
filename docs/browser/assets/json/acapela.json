@@ -1,0 +1,1675 @@
+[
+    {
+        "title": "Graham (English)",
+        "value": "graham22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Harry (English)",
+        "value": "harry22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lucy (English)",
+        "value": "lucy22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lucy (neural) (English)",
+        "value": "lucy_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Peter (English)",
+        "value": "peter22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Peter (neural) (English)",
+        "value": "peter_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Queen Elizabeth (English)",
+        "value": "queenelizabeth22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Queen Elizabeth (neural) (English)",
+        "value": "queenelizabeth_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rachel (English)",
+        "value": "rachel22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rachel (neural) (English)",
+        "value": "rachel_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rosie (English)",
+        "value": "rosie22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sophia btob (English)",
+        "value": "sophiabtob22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sophia btob (neural) (English)",
+        "value": "sophiabtob_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rhona (English, Scottish)",
+        "value": "rhona22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rhona (neural) (English, Scottish)",
+        "value": "rhona_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Liam (English, Australian)",
+        "value": "liam22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lisa (English, Australian)",
+        "value": "lisa22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lisa (neural) (English, Australian)",
+        "value": "lisa_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Olivia (English, Australian)",
+        "value": "olivia22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tyler (English, Australian)",
+        "value": "tyler22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tyler (neural) (English, Australian)",
+        "value": "tyler_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Deepa (English, Indian)",
+        "value": "deepa22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Deepa (neural) (English, Indian)",
+        "value": "deepa_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Nizareng (English, Middle East)",
+        "value": "nizareng22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Nizareng (neural) (English, Middle East)",
+        "value": "nizareng_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Darius (English, American)",
+        "value": "darius22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Darius (neural) (English, American)",
+        "value": "darius_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ella (English, American)",
+        "value": "ella22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emilio (English, American)",
+        "value": "emilioenglish22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Josh (English, American)",
+        "value": "josh22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Karen (English, American)",
+        "value": "karen22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Karen (neural) (English, American)",
+        "value": "karen_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Laura (English, American)",
+        "value": "laura22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Laura (neural) (English, American)",
+        "value": "laura_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lily (English, American)",
+        "value": "lily22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lily (neural) (English, American)",
+        "value": "lily_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Micah (English, American)",
+        "value": "micah22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rod (English, American)",
+        "value": "rod22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rod (neural) (English, American)",
+        "value": "rod_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ryan (English, American)",
+        "value": "ryan22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ryan (neural) (English, American)",
+        "value": "ryan_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Saul (English, American)",
+        "value": "saul22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Saul (neural) (English, American)",
+        "value": "saul_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Scott (English, American)",
+        "value": "scott22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sharon (English, American)",
+        "value": "sharon22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sharon (neural) (English, American)",
+        "value": "sharon_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tamira (English, American)",
+        "value": "tamira22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tamira (neural) (English, American)",
+        "value": "tamira_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Taylor (English, American)",
+        "value": "taylor22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Taylor (neural) (English, American)",
+        "value": "taylor_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tracy (English, American)",
+        "value": "tracy22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tracy (neural) (English, American)",
+        "value": "tracy_nt22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Valeria (English, American)",
+        "value": "valeriaenglish22k",
+        "lang": "English",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Will (English, American)",
+        "value": "will22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Will (neural) (English, American)",
+        "value": "will_nt22k",
+        "lang": "English",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Leila (Arabic)",
+        "value": "leila22k",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Leila (neural) (Arabic)",
+        "value": "leila_nt22k",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jalal (Arabic)",
+        "value": "jalal22k",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jalal (neural) (Arabic)",
+        "value": "jalal_nt22k",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Mehdi (Arabic)",
+        "value": "mehdi22k",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Mehdi (neural) (Arabic)",
+        "value": "mehdi_nt22k",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Nizar (Arabic)",
+        "value": "nizar22k",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Nizar (neural) (Arabic)",
+        "value": "nizar_nt22k",
+        "lang": "Arabic",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Salma (Arabic)",
+        "value": "salma22k",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Salma (neural) (Arabic)",
+        "value": "salma_nt22k",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Laia (Catalan)",
+        "value": "laia22k",
+        "lang": "Catalan",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Laia (neural) (Catalan)",
+        "value": "laia_nt22k",
+        "lang": "Catalan",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lulu (Chinese, Mandarin)",
+        "value": "lulu22k",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lulu (neural) (Chinese, Mandarin)",
+        "value": "lulu_nt22k",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Eliska (Czech)",
+        "value": "eliska22k",
+        "lang": "Czech",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Eliska (neural) (Czech)",
+        "value": "eliska_nt22k",
+        "lang": "Czech",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Mette (Danish)",
+        "value": "mette22k",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Mette (neural) (Danish)",
+        "value": "mette_nt22k",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rasmus (Danish)",
+        "value": "rasmus22k",
+        "lang": "Danish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rasmus (neural) (Danish)",
+        "value": "rasmus_nt22k",
+        "lang": "Danish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rikke (Danish)",
+        "value": "rikke22k",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rikke (neural) (Danish)",
+        "value": "rikke_nt22k",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Daan (Dutch)",
+        "value": "daan22k",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Daan (neural) (Dutch)",
+        "value": "daan_nt22k",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Femke (Dutch)",
+        "value": "femke22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Femke (neural) (Dutch)",
+        "value": "femke_nt22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jasmijn (Dutch)",
+        "value": "jasmijn22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jasmijn (neural) (Dutch)",
+        "value": "jasmijn_nt22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Max (Dutch)",
+        "value": "max22k",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Max (neural) (Dutch)",
+        "value": "max_nt22k",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tessa btob (Dutch)",
+        "value": "tessabtob22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Tessa btob (neural) (Dutch)",
+        "value": "tessabtob_nt22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Christina btob (Dutch, Belgian)",
+        "value": "christinabtob22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Christina btob (neural) (Dutch, Belgian)",
+        "value": "christinabtob_nt22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jeroen (Dutch, Belgian)",
+        "value": "jeroen22k",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jeroen (neural) (Dutch, Belgian)",
+        "value": "jeroen_nt22k",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sofie (Dutch, Belgian)",
+        "value": "sofie22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sofie (neural) (Dutch, Belgian)",
+        "value": "sofie_nt22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Zoe (Dutch, Belgian)",
+        "value": "zoe22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Zoe (neural) (Dutch, Belgian)",
+        "value": "zoe_nt22k",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Hanna (Faroese)",
+        "value": "hanna22k",
+        "lang": "Faroese",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Hanna (neural) (Faroese)",
+        "value": "hanna_nt22k",
+        "lang": "Faroese",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Hanus (Faroese)",
+        "value": "hanus22k",
+        "lang": "Faroese",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Hanus (neural) (Faroese)",
+        "value": "hanus_nt22k",
+        "lang": "Faroese",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sanna (Finnish)",
+        "value": "sanna22k",
+        "lang": "Finnish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sanna (neural) (Finnish)",
+        "value": "sanna_nt22k",
+        "lang": "Finnish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alice (French)",
+        "value": "alice22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alice (neural) (French)",
+        "value": "alice_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anais (French)",
+        "value": "anais22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anais (neural) (French)",
+        "value": "anais_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anais btob (French)",
+        "value": "anaisbtob22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anais btob (neural) (French)",
+        "value": "anaisbtob_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Antoine (French)",
+        "value": "antoine22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Antoine (neural) (French)",
+        "value": "antoine_nt22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Bruno (French)",
+        "value": "bruno22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Bruno (neural) (French)",
+        "value": "bruno_nt22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Claire (French)",
+        "value": "claire22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Claire (neural) (French)",
+        "value": "claire_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Constance (French)",
+        "value": "constance22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Constance (neural) (French)",
+        "value": "constance_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elise (French)",
+        "value": "elise22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Julie (French)",
+        "value": "julie22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Julie (neural) (French)",
+        "value": "julie_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Manon (French)",
+        "value": "manon22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Manon (neural) (French)",
+        "value": "manon_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Margaux (French)",
+        "value": "margaux22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Margaux (neural) (French)",
+        "value": "margaux_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Valentin (French)",
+        "value": "valentin22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anthony (French, Canadian)",
+        "value": "anthony22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anthony (neural) (French, Canadian)",
+        "value": "anthony_nt22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Louise (French, Canadian)",
+        "value": "louise22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Louise (neural) (French, Canadian)",
+        "value": "louise_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alice (French, Belgian)",
+        "value": "alice-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alice (neural) (French, Belgian)",
+        "value": "alice-be_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anais (French, Belgian)",
+        "value": "anais-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anais (neural) (French, Belgian)",
+        "value": "anais-be_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Antoine (French, Belgian)",
+        "value": "antoine-be22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Antoine (neural) (French, Belgian)",
+        "value": "antoine-be_nt22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Bruno (French, Belgian)",
+        "value": "bruno-be22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Bruno (neural) (French, Belgian)",
+        "value": "bruno-be_nt22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Claire (French, Belgian)",
+        "value": "claire-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Claire (neural) (French, Belgian)",
+        "value": "claire-be_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elise (French, Belgian)",
+        "value": "elise-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Julie (French, Belgian)",
+        "value": "julie-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Julie (neural) (French, Belgian)",
+        "value": "julie-be_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Manon (French, Belgian)",
+        "value": "manon-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Manon (neural) (French, Belgian)",
+        "value": "manon-be_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Margaux (French, Belgian)",
+        "value": "margaux-be22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Margaux (neural) (French, Belgian)",
+        "value": "margaux-be_nt22k",
+        "lang": "French",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Valentin (French, Belgian)",
+        "value": "valentin-be22k",
+        "lang": "French",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Andreas (German)",
+        "value": "andreas22k",
+        "lang": "German",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Andreas (neural) (German)",
+        "value": "andreas_nt22k",
+        "lang": "German",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anke btob (German)",
+        "value": "ankebtob22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Anke btob (neural) (German)",
+        "value": "ankebtob_nt22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Claudia (German)",
+        "value": "claudia22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Claudia (neural) (German)",
+        "value": "claudia_nt22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Jonas (German)",
+        "value": "jonas22k",
+        "lang": "German",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Julia (German)",
+        "value": "julia22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Julia (neural) (German)",
+        "value": "julia_nt22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Klaus (German)",
+        "value": "klaus22k",
+        "lang": "German",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Klaus (neural) (German)",
+        "value": "klaus_nt22k",
+        "lang": "German",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lea (German)",
+        "value": "lea22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sarah (German)",
+        "value": "sarah22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sarah (neural) (German)",
+        "value": "sarah_nt22k",
+        "lang": "German",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Dimitris (Greek)",
+        "value": "dimitris22k",
+        "lang": "Greek",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Dimitris (neural) (Greek)",
+        "value": "dimitris_nt22k",
+        "lang": "Greek",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alessio (Italian)",
+        "value": "alessio22k",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Aurora (Italian)",
+        "value": "aurora22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Barbara btob (Italian)",
+        "value": "barbarabtob22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Barbara btob (Italian)",
+        "value": "barbarabtob_nt22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Chiara (Italian)",
+        "value": "chiara22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Chiara (neural) (Italian)",
+        "value": "chiara_nt22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Fabiana (Italian)",
+        "value": "fabiana22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Fabiana (neural) (Italian)",
+        "value": "fabiana_nt22k",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Vittorio (Italian)",
+        "value": "vittorio22k",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Vittorio (neural) (Italian)",
+        "value": "vittorio_nt22k",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sakura (Japanese)",
+        "value": "sakura22k",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sakura (neural) (Japanese)",
+        "value": "sakura_nt22k",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Minji (Korean)",
+        "value": "minji22k",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Minji (neural) (Korean)",
+        "value": "minji_nt22k",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Bente (Norwegian)",
+        "value": "bente22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Bente (neural) (Norwegian)",
+        "value": "bente_nt22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elias (Norwegian)",
+        "value": "elias22k",
+        "lang": "Norwegian",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emilie (Norwegian)",
+        "value": "emilie22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ida (Norwegian)",
+        "value": "ida22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ida (neural) (Norwegian)",
+        "value": "ida_nt22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Kari (Norwegian)",
+        "value": "kari22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Kari (neural) (Norwegian)",
+        "value": "kari_nt22k",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Olav (Norwegian)",
+        "value": "olav22k",
+        "lang": "Norwegian",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Olav (Norwegian)",
+        "value": "olav_nt22k",
+        "lang": "Norwegian",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ania (Polish)",
+        "value": "ania22k",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ania (neural) (Polish)",
+        "value": "ania_nt22k",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Gosia (Polish)",
+        "value": "gosia22k",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Gosia (neural) (Polish)",
+        "value": "gosia_nt22k",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Isabel (Portuguese, European)",
+        "value": "isabel22k",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Isabel (neural) (Portuguese, European)",
+        "value": "isabel_nt22k",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Gabriela (Portuguese, Brazilian)",
+        "value": "gabriela22k",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Gabriela (neural) (Portuguese, Brazilian)",
+        "value": "gabriela_nt22k",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Marcia (Portuguese, Brazilian)",
+        "value": "marcia22k",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Marcia (neural) (Portuguese, Brazilian)",
+        "value": "marcia_nt22k",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sergio (Portuguese, Brazilian)",
+        "value": "sergio22k",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Sergio (neural) (Portuguese, Brazilian)",
+        "value": "sergio_nt22k",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alyona (Russian)",
+        "value": "alyona22k",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Alyona (neural) (Russian)",
+        "value": "alyona_nt22k",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lena (Russian)",
+        "value": "lena22k",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Lena (neural) (Russian)",
+        "value": "lena_nt22k",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Biera (S\u00e1mi, Northern)",
+        "value": "biera_hmm_22k",
+        "lang": "S\u00e1mi",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elle (S\u00e1mi, Northern)",
+        "value": "elle_hmm_22k",
+        "lang": "S\u00e1mi",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ana btob (Spanish, Spain)",
+        "value": "anabtob22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ana btob (neural) (Spanish, Spain)",
+        "value": "anabtob_nt22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Antonio (Spanish, Spain)",
+        "value": "antonio22k",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Antonio (neural) (Spanish, Spain)",
+        "value": "antonio_nt22k",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elena btob (Spanish, Spain)",
+        "value": "elenabtob22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elena btob (neural) (Spanish, Spain)",
+        "value": "elenabtob_nt22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ines (Spanish, Spain)",
+        "value": "ines22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ines (neural) (Spanish, Spain)",
+        "value": "ines_nt22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Maria (Spanish, Spain)",
+        "value": "maria22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Maria (neural) (Spanish, Spain)",
+        "value": "maria_nt22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emilio (Spanish, American)",
+        "value": "emilio22k",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rodrigo (Spanish, American)",
+        "value": "rodrigo22k",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rodrigo (neural) (Spanish, American)",
+        "value": "rodrigo_nt22k",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rosa (Spanish, American)",
+        "value": "rosa22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Rosa (neural) (Spanish, American)",
+        "value": "rosa_nt22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Valeria (Spanish, American)",
+        "value": "valeria22k",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elin (Swedish)",
+        "value": "elin22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Elin (neural) (Swedish)",
+        "value": "elin_nt22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emil (Swedish)",
+        "value": "emil22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emil (neural) (Swedish)",
+        "value": "emil_nt22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emma (Swedish)",
+        "value": "emma22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Emma (neural) (Swedish)",
+        "value": "emma_nt22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Erik (Swedish)",
+        "value": "erik22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Erik (neural) (Swedish)",
+        "value": "erik_nt22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Filip (Swedish)",
+        "value": "filip22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Freja (Swedish)",
+        "value": "freja22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Kal (Swedish, Gothenburg)",
+        "value": "kal22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Kal (neural) (Swedish, Gothenburg)",
+        "value": "kal_nt22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Mia (Swedish, Scanian)",
+        "value": "mia22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Mia (neural) (Swedish, Scanian)",
+        "value": "mia_nt22k",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Samuel (Swedish, Finland)",
+        "value": "samuel22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Samuel (neural) (Swedish, Finland)",
+        "value": "samuel_nt22k",
+        "lang": "Swedish",
+        "gender": "M",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ipek (Turkish)",
+        "value": "ipek22k",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Ipek (neural) (Turkish)",
+        "value": "ipek_nt22k",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Zeynep (Turkish)",
+        "value": "zeynep22k",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "Acapela"
+    },
+    {
+        "title": "Zeynep (neural) (Turkish)",
+        "value": "zeynep_nt22k",
+        "lang": "Turkish",
+        "gender": "F",
+        "service": "Acapela"
+    }
+]
