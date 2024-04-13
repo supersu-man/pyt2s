@@ -1,0 +1,19 @@
+<div class="container-fluid py-3 px-4">
+    <div class="row">
+      <div style="width: 200px;">
+        <div class="row">
+          <div class="col-12 rounded-pill py-1 px-3 my-1 border" role="button" routerLinkActive="active-tab" routerLink="/#">Home</div>
+          <a class="col-12 rounded-pill py-1 px-3 my-1 border" href="https://github.com/supersu-man/pyt2s">GitHub</a>
+        </div>
+        <div class="row">
+          <div class="col-12 fw-semibold fs-6 py-1">Services</div>
+          @for (item of items; track $index) {
+          <div class="col-12 rounded-pill py-1 px-4 my-1" role="button" routerLinkActive="active-tab" [routerLink]="item.route">{{ item.title }}</div>
+          }
+        </div>
+      </div>
+      <div class="col">
+        <router-outlet />
+      </div>
+    </div>
+  </div>

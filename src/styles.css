@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'ReadexPro'; 
+    src: url('/assets/ReadexPro.ttf');
+}
+html, body {
+    font-family: 'ReadexPro' !important;
+}
+.active-tab {
+    background-color: #e9ecef;
+}
+a {
+    text-decoration: none !important;
+    color: inherit !important;
+}

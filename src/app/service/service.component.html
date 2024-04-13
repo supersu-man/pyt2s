@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="row fw-semibold py-2">
+        <div class="col">
+            <label>Language</label>
+            <select class="form-select" [(ngModel)]="languageFilter" (change)="onChange()">
+                <option selected value="">All</option>
+                @for (lang of languages; track $index) {
+                    <option [value]="lang">{{ lang }}</option>
+                }
+            </select>
+        </div>
+        <div class="col">
+            <label>Gender</label>
+            <select class="form-select" [(ngModel)]="genderFilter" (change)="onChange()">
+                <option selected value="">All</option>
+                <option value="M">Male</option>
+                <option value="F">Female</option>
+            </select>
+        </div>
+    </div>
+    <div class="row fw-semibold py-2">
+        <div class="col">Title</div>
+        <div class="col-2">Language</div>
+        <div class="col-2">Gender</div>
+        <div class="col">Key</div>
+    </div>
+    @for (voice of voices; track $index) {
+    <div class="row">
+        <div class="col">{{ voice.title }}</div>
+        <div class="col-2">{{ voice.lang }}</div>
+        <div class="col-2">{{ voice.gender }}</div>
+        <div class="col">{{ voice.value }}</div>
+    </div>
+    }
+</div>

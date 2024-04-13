@@ -1,0 +1,422 @@
+[
+    {
+        "title": "Brian (English, British)",
+        "value": "Brian",
+        "lang": "English",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Amy (English, British)",
+        "value": "Amy",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Emma (English, British)",
+        "value": "Emma",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Geraint (English, Welsh)",
+        "value": "Geraint",
+        "lang": "English",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Russell (English, Australian)",
+        "value": "Russell",
+        "lang": "English",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Nicole (English, Australian)",
+        "value": "Nicole",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Joey (English, American)",
+        "value": "Joey",
+        "lang": "English",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Justin (English, American)",
+        "value": "Justin",
+        "lang": "English",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Matthew (English, American)",
+        "value": "Matthew",
+        "lang": "English",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Ivy (English, American)",
+        "value": "Ivy",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Joanna (English, American)",
+        "value": "Joanna",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Kendra (English, American)",
+        "value": "Kendra",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Kimberly (English, American)",
+        "value": "Kimberly",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Salli (English, American)",
+        "value": "Salli",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Raveena (English, Indian)",
+        "value": "Raveena",
+        "lang": "English",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Zeina (Arabic)",
+        "value": "Zeina",
+        "lang": "Arabic",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Zhiyu (Chinese, Mandarin)",
+        "value": "Zhiyu",
+        "lang": "Chinese",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Mads (Danish)",
+        "value": "Mads",
+        "lang": "Danish",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Naja (Danish)",
+        "value": "Naja",
+        "lang": "Danish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Ruben (Dutch)",
+        "value": "Ruben",
+        "lang": "Dutch",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Lotte (Dutch)",
+        "value": "Lotte",
+        "lang": "Dutch",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Mathieu (French)",
+        "value": "Mathieu",
+        "lang": "French",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "C\u00e9line (French)",
+        "value": "Celine",
+        "lang": "French",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "L\u00e9a (French)",
+        "value": "Lea",
+        "lang": "French",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Chantal (French, Canadian)",
+        "value": "Chantal",
+        "lang": "French",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Hans (German)",
+        "value": "Hans",
+        "lang": "German",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Marlene (German)",
+        "value": "Marlene",
+        "lang": "German",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Vicki (German)",
+        "value": "Vicki",
+        "lang": "German",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Aditi (+English) (Hindi)",
+        "value": "Aditi",
+        "lang": "Hindi",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Karl (Icelandic)",
+        "value": "Karl",
+        "lang": "Icelandic",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "D\u00f3ra (Icelandic)",
+        "value": "Dora",
+        "lang": "Icelandic",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Carla (Italian)",
+        "value": "Carla",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Bianca (Italian)",
+        "value": "Bianca",
+        "lang": "Italian",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Giorgio (Italian)",
+        "value": "Giorgio",
+        "lang": "Italian",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Takumi (Japanese)",
+        "value": "Takumi",
+        "lang": "Japanese",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Mizuki (Japanese)",
+        "value": "Mizuki",
+        "lang": "Japanese",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Seoyeon (Korean)",
+        "value": "Seoyeon",
+        "lang": "Korean",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Liv (Norwegian)",
+        "value": "Liv",
+        "lang": "Norwegian",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Ewa (Polish)",
+        "value": "Ewa",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Maja (Polish)",
+        "value": "Maja",
+        "lang": "Polish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Jacek (Polish)",
+        "value": "Jacek",
+        "lang": "Polish",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Jan (Polish)",
+        "value": "Jan",
+        "lang": "Polish",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Ricardo (Portuguese, Brazilian)",
+        "value": "Ricardo",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Camila (Portuguese, Brazilian)",
+        "value": "Camila",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Vit\u00f3ria (Portuguese, Brazilian)",
+        "value": "Vitoria",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Cristiano (Portuguese, European)",
+        "value": "Cristiano",
+        "lang": "Portuguese",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "In\u00eas (Portuguese, European)",
+        "value": "Ines",
+        "lang": "Portuguese",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Carmen (Romanian)",
+        "value": "Carmen",
+        "lang": "Romanian",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Maxim (Russian)",
+        "value": "Maxim",
+        "lang": "Russian",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Tatyana (Russian)",
+        "value": "Tatyana",
+        "lang": "Russian",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Enrique (Spanish, European)",
+        "value": "Enrique",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Conchita (Spanish, European)",
+        "value": "Conchita",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Lucia (Spanish, European)",
+        "value": "Lucia",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Mia (Spanish, Mexican)",
+        "value": "Mia",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Miguel (Spanish, American)",
+        "value": "Miguel",
+        "lang": "Spanish",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Lupe (Spanish, American)",
+        "value": "Lupe",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Pen\u00e9lope (Spanish, American)",
+        "value": "Penelope",
+        "lang": "Spanish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Astrid (Swedish)",
+        "value": "Astrid",
+        "lang": "Swedish",
+        "gender": "F",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Filiz (Turkish)",
+        "value": "Filiz",
+        "lang": "Turkish",
+        "gender": "M",
+        "service": "Streamlabs"
+    },
+    {
+        "title": "Gwyneth (Welsh)",
+        "value": "Gwyneth",
+        "lang": "Welsh",
+        "gender": "F",
+        "service": "Streamlabs"
+    }
+]
