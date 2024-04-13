@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href /pyt2s/",
+    "build": "ng build --base-href /pyt2s/ && copy docs\\index.html docs\\404.html",
     "watch": "ng build --watch --configuration development"
   },
   "private": true,
