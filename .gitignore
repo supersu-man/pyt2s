@@ -11,9 +11,11 @@ env/
 venv/
 ENV/
 
-#.idea/
-node_modules
-.angular
+# Ide
+.vscode
 
 # Release script
 release.py
+
+# Dependecies
+node_modules
