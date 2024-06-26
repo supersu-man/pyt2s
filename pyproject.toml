@@ -1,6 +1,6 @@
 [project]
 name = "pyt2s"
-version = "0.0.3"
+version = "0.0.4"
 authors = [{ name="Sumanth Perambuduri", email="sumanthpera444@gmail.com" }]
 description = "Python library you need for text to speech."
 readme = "README.md"
