@@ -1,5 +1,7 @@
 # pyt2s
-The Python Text to Speech library you've been looking for.
+The Python Text to Speech library you've been looking for (maybe not).
+
+**Note: This is a toy project**
 
 A simple python library to convert texts to voice using different TTS services.
 
