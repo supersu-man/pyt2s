@@ -22,14 +22,22 @@ This python library is heavily inpired from Chris Phillips's [php tts library](h
 - Install using `pip install pyt2s`
 - Request TTS and saving as mp3
     ```
-    from pyt2s.services import stream_elements
+    from pyt2s.service_manager import requestTTS
+    from pyt2s.models.stream_elements_models import StreamElementsVoice
 
-    # Default Voice
-    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.')
-
-    # Custom Voice
-    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.', stream_elements.Voice.Russell.value)
+    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.', StreamElementsVoice.Russell)
 
     with open('output.mp3', '+wb') as file:
         file.write(data)
+    ```
+- List voices
+  ```
+    from pyt2s.service_manager import list_voices, print_list_voices
+    
+    # it returns an array that includes all available voices
+    list_voices()
+    
+    # it doesn't return anything
+    # visualize available voices
+    print_list_voices()
     ```

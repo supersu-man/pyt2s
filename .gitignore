@@ -15,6 +15,7 @@ ENV/
 
 # Ide
 .vscode
+.idea
 
 # Release script
 release.py
