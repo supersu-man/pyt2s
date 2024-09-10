@@ -5,6 +5,8 @@ The Python Text to Speech library you've been looking for (maybe not).
 
 A simple python library to convert texts to voice using different TTS services.
 
+[![Downloads](https://static.pepy.tech/badge/pyt2s)](https://pepy.tech/project/pyt2s)
+
 
 ## About
 This python library is heavily inpired from Chris Phillips's [php tts library](https://github.com/chrisjp/tts). I wanted to use a Python TTS library for one of my projects, but I found none that is simply plug-and-play, supports multiple voices, includes both genders, and doesn’t require me to download trained models of tens of GBs. 
