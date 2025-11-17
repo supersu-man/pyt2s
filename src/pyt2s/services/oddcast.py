@@ -235,8 +235,8 @@ class Voice(__enum__):
 
 __url1__ = 'https://cache-a.oddcast.com/tts/genB.php'
 
-def requestTTS(text: str, voice = '3-3-1'):
-    voiceParts = voice.split('-')
+def requestTTS(text: str, voice = Voice.v3_3_1):
+    voiceParts = voice.value.split('-')
     voiceId, engineId, languageId = voiceParts
     params = {
         'EID': int(engineId),

@@ -36,10 +36,10 @@ __session__ = __requests__.session()
 __url1__ = 'https://www.cepstral.com/en/demos'
 __url2__ = 'https://www.cepstral.com/demos/createAudio.php?'
     
-def requestTTS(text: str, voice = 'Belle'):
+def requestTTS(text: str, voice = Voice.Belle):
     params = {
         'voiceText': text,
-        'voice': voice,
+        'voice': voice.value,
         'createTime': int(__time__.time() * 1000),
         'rate': 170,
         'pitch': 1,

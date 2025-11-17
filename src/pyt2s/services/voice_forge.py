@@ -36,9 +36,9 @@ __headers__ = {
     'HTTP_X_API_KEY': '8b3f76a8539',
 }
 
-def requestTTS(text: str, voice = 'Conrad'):
+def requestTTS(text: str, voice = Voice.Conrad):
     params = {
-        'voice': voice,
+        'voice': voice.value,
         'msg': text,
         'email': 'null',
     }

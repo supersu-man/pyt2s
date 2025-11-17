@@ -210,9 +210,9 @@ class Voice(__enum__):
 
 __url1__ = 'https://api.streamelements.com/kappa/v2/speech?'
 
-def requestTTS(text: str, voice = 'Brian'):
+def requestTTS(text: str, voice = Voice.Brian):
     params = {
-        'voice': voice,
+        'voice': voice.value,
         'text': text
     }
     res = __requests__.get(__url1__, params)

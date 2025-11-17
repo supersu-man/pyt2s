@@ -69,9 +69,9 @@ __headers__ = {
     'Referer': 'https://streamlabs.com'
 }
     
-def requestTTS(text: str, voice = 'Brian'):
+def requestTTS(text: str, voice = Voice.Brian):
     params = {
-        'voice': voice,
+        'voice': voice.value,
         'text': text
     }
     res = __requests__.post(__url1__, params=params, headers=__headers__)

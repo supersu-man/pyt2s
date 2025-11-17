@@ -14,7 +14,6 @@ This python library is heavily inpired from Chris Phillips's [php tts library](h
 ## Services
 - Acapela
 - Cepstral
-- IBM Watson
 - Oddcast
 - Stream Elements
 - Stream Labs
@@ -30,7 +29,7 @@ This python library is heavily inpired from Chris Phillips's [php tts library](h
     data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.')
 
     # Custom Voice
-    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.', stream_elements.Voice.Russell.value)
+    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.', stream_elements.Voice.Russell)
 
     with open('output.mp3', '+wb') as file:
         file.write(data)

@@ -252,7 +252,7 @@ __headers__ = {
     'Origin': 'https://www.acapela-group.com/demos/',                             
 }
 
-def requestTTS(text: str, voice = 'sharon22k'):
+def requestTTS(text: str, voice = Voice.sharon22k):
     res = __session__.get(__url1__, headers=__headers__)
     json_res = res.text.replace('var vaasOptions = ', '').replace('};', '}')
     json_res = __json__.loads(json_res)
@@ -262,7 +262,7 @@ def requestTTS(text: str, voice = 'sharon22k'):
         'session_start': json_res['session']['start'],
         'session_time': json_res['session']['time'],
         'session_key': json_res['session']['key'],
-        'req_voice': voice,
+        'req_voice': voice.value,
         'req_text': text
     }
     res = __session__.post(__url2__, params=params, headers=__headers__)
