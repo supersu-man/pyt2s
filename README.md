@@ -1,17 +1,23 @@
 # pyt2s
-The Python Text to Speech library you've been looking for (maybe not).
+The Python Text-to-Speech library you didn’t know you needed (or maybe you did).
 
-**Note: This is a toy project**
-
-A simple python library to convert texts to voice using different TTS services.
+**⚠️ Toy project alert: This is experimental and fun, not production-grade.**
 
 [![Downloads](https://static.pepy.tech/badge/pyt2s)](https://pepy.tech/project/pyt2s)
 
+# 🎯 What is pyt2s
 
-## About
-This python library is heavily inpired from Chris Phillips's [php tts library](https://github.com/chrisjp/tts). I wanted to use a Python TTS library for one of my projects, but I found none that is simply plug-and-play, supports multiple voices, includes both genders, and doesn’t require me to download trained models of tens of GBs. 
+A lightweight Python wrapper for generating speech from text using various online TTS services—no heavy model downloads, no complex setup. Just plug, play, and talk.
 
-## Services
+Inspired by Chris Phillips's [php tts library](https://github.com/chrisjp/tts) library, pyt2s was born out of frustration:
+
+“Why is there no Python TTS library that’s simple, supports multiple voices (including both genders), and doesn’t ask me to download 20GB of models?”
+
+Now there is.
+
+# 🧠 Supported TTS Service
+
+pyt2s taps into several online services to give you voice variety:
 - Acapela
 - Cepstral
 - Oddcast
@@ -19,18 +25,36 @@ This python library is heavily inpired from Chris Phillips's [php tts library](h
 - Stream Labs
 - Voice Forge
 
-## Usage
-- Install using `pip install pyt2s`
-- Request TTS and saving as mp3
-    ```
-    from pyt2s.services import stream_elements
+# 🚀 Installation
 
-    # Default Voice
-    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.')
+### Option 1: From Source
 
-    # Custom Voice
-    data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.', stream_elements.Voice.Russell)
+```
+git clone https://github.com/yourusername/pyt2s.git
+cd pyt2s
+pip install -r requirements.txt
+pip install -e .
+```
 
-    with open('output.mp3', '+wb') as file:
-        file.write(data)
-    ```
+### Option 2: From PyPI
+
+```
+pip install pyt2s
+```
+
+# 🛠️ Usage
+
+Here’s how to convert text to speech and save it as an MP3:
+
+```
+from pyt2s.services import stream_elements
+
+# Default Voice
+data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.')
+
+# Custom Voice
+data = stream_elements.requestTTS('Lorem Ipsum is simply dummy text.', stream_elements.Voice.Russell)
+
+with open('output.mp3', '+wb') as file:
+    file.write(data)
+```
